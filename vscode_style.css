@@ -1,0 +1,12 @@
+body {
+  pointer-events: auto !important;
+  background-size: 100% !important;
+  opacity: 0.9 !important;
+  background-position: 0 0 !important;
+  background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5FOjFaXdAXytj0EuzdDIOR1s69T47N9-TCyst-SJvvJzA7IpAn_WwnJlwnWTRktAnJ1KSQ7YcyAceIo41oIEHXtZbH5V5DDsUWnlDKefSAYKdGWc3yokOCr7z7vcECVd1RQ2aaJATXQBt/s1600/vivqEjm.png");
+  content: "";
+  position: absolute;
+  z-index: 999;
+  width: 100%;
+  background-repeat: no-repeat;
+}
